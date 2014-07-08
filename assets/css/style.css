@@ -204,6 +204,8 @@ strong { font-weight: bold; }
 
 .what-we-do .service p {
     padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     line-height: 24px;
 }
 
